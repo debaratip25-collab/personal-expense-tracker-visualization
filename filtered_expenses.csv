@@ -1,0 +1,201 @@
+date,category,amount,payment_method,note,month
+2025-06-04,Food,173.22,Credit Card,Food expense,2025-06
+2025-04-20,Rent,48.94,Debit Card,Rent expense,2025-04
+2025-02-04,Health,56.75,Credit Card,Health expense,2025-02
+2025-05-12,Entertainment,113.92,Debit Card,Entertainment expense,2025-05
+2025-01-19,Health,159.94,UPI/Wallet,Health expense,2025-01
+2025-04-09,Utilities,89.2,Cash,Utilities expense,2025-04
+2025-01-24,Utilities,111.11,Debit Card,Utilities expense,2025-01
+2025-03-02,Rent,73.98,Debit Card,Rent expense,2025-03
+2025-02-16,Food,121.65,Credit Card,Food expense,2025-02
+2025-02-05,Rent,45.08,Cash,Rent expense,2025-02
+2025-06-06,Shopping,163.72,Debit Card,Shopping expense,2025-06
+2025-05-06,Utilities,47.29,UPI/Wallet,Utilities expense,2025-05
+2025-04-14,Transport,169.45,Cash,Transport expense,2025-04
+2025-04-27,Education,115.21,Credit Card,Education expense,2025-04
+2025-06-03,Shopping,165.08,UPI/Wallet,Shopping expense,2025-06
+2025-03-16,Utilities,110.61,Cash,Utilities expense,2025-03
+2025-03-15,Food,97.18,UPI/Wallet,Food expense,2025-03
+2025-01-08,Transport,106.64,Credit Card,Transport expense,2025-01
+2025-02-05,Rent,98.23,Cash,Rent expense,2025-02
+2025-05-03,Utilities,127.22,Credit Card,Utilities expense,2025-05
+2025-04-07,Food,186.28,Debit Card,Food expense,2025-04
+2025-03-08,Health,97.28,Debit Card,Health expense,2025-03
+2025-02-19,Health,130.02,Debit Card,Health expense,2025-02
+2025-03-10,Entertainment,37.72,UPI/Wallet,Entertainment expense,2025-03
+2025-02-23,Entertainment,192.75,Credit Card,Entertainment expense,2025-02
+2025-03-14,Entertainment,194.67,Cash,Entertainment expense,2025-03
+2025-01-20,Utilities,76.67,Cash,Utilities expense,2025-01
+2025-02-11,Rent,145.73,UPI/Wallet,Rent expense,2025-02
+2025-03-08,Transport,168.79,UPI/Wallet,Transport expense,2025-03
+2025-06-25,Food,112.62,UPI/Wallet,Food expense,2025-06
+2025-06-01,Education,72.72,UPI/Wallet,Education expense,2025-06
+2025-05-17,Food,17.64,Cash,Food expense,2025-05
+2025-01-16,Rent,142.24,Debit Card,Rent expense,2025-01
+2025-01-02,Food,182.64,Cash,Food expense,2025-01
+2025-04-22,Transport,119.56,Credit Card,Transport expense,2025-04
+2025-02-08,Utilities,94.12,Cash,Utilities expense,2025-02
+2025-03-09,Health,191.64,UPI/Wallet,Health expense,2025-03
+2025-03-01,Rent,30.29,Credit Card,Rent expense,2025-03
+2025-05-22,Utilities,147.99,Credit Card,Utilities expense,2025-05
+2025-04-08,Entertainment,21.34,UPI/Wallet,Entertainment expense,2025-04
+2025-06-13,Education,32.54,Cash,Education expense,2025-06
+2025-02-27,Health,93.22,Cash,Health expense,2025-02
+2025-05-09,Health,77.16,Debit Card,Health expense,2025-05
+2025-05-30,Health,90.99,Debit Card,Health expense,2025-05
+2025-01-24,Utilities,200.0,Cash,Utilities expense,2025-01
+2025-04-20,Food,199.83,Debit Card,Food expense,2025-04
+2025-04-23,Transport,171.23,Credit Card,Transport expense,2025-04
+2025-01-06,Health,154.13,UPI/Wallet,Health expense,2025-01
+2025-05-07,Transport,60.12,Credit Card,Transport expense,2025-05
+2025-02-12,Utilities,78.62,Cash,Utilities expense,2025-02
+2025-03-30,Rent,146.47,Credit Card,Rent expense,2025-03
+2025-04-16,Rent,48.7,Cash,Rent expense,2025-04
+2025-05-09,Entertainment,73.83,Cash,Entertainment expense,2025-05
+2025-03-05,Shopping,181.4,Cash,Shopping expense,2025-03
+2025-06-05,Shopping,139.58,Credit Card,Shopping expense,2025-06
+2025-06-07,Utilities,126.46,UPI/Wallet,Utilities expense,2025-06
+2025-04-18,Utilities,196.41,Cash,Utilities expense,2025-04
+2025-03-17,Health,185.23,Credit Card,Health expense,2025-03
+2025-03-02,Transport,22.64,Credit Card,Transport expense,2025-03
+2025-01-27,Food,19.66,Credit Card,Food expense,2025-01
+2025-05-17,Entertainment,120.07,UPI/Wallet,Entertainment expense,2025-05
+2025-05-18,Health,184.39,Debit Card,Health expense,2025-05
+2025-04-14,Entertainment,102.83,Debit Card,Entertainment expense,2025-04
+2025-02-02,Transport,25.8,Debit Card,Transport expense,2025-02
+2025-06-23,Entertainment,187.86,Credit Card,Entertainment expense,2025-06
+2025-06-18,Entertainment,36.1,Cash,Entertainment expense,2025-06
+2025-02-06,Shopping,96.6,Debit Card,Shopping expense,2025-02
+2025-02-08,Health,18.94,Debit Card,Health expense,2025-02
+2025-05-19,Food,31.98,UPI/Wallet,Food expense,2025-05
+2025-06-08,Rent,166.13,Cash,Rent expense,2025-06
+2025-01-22,Utilities,105.17,UPI/Wallet,Utilities expense,2025-01
+2025-04-27,Utilities,146.78,Credit Card,Utilities expense,2025-04
+2025-06-21,Rent,87.0,Cash,Rent expense,2025-06
+2025-06-14,Rent,145.63,UPI/Wallet,Rent expense,2025-06
+2025-02-13,Food,137.91,Cash,Food expense,2025-02
+2025-05-17,Utilities,59.8,Cash,Utilities expense,2025-05
+2025-06-27,Entertainment,68.71,Credit Card,Entertainment expense,2025-06
+2025-06-25,Transport,18.71,Credit Card,Transport expense,2025-06
+2025-05-29,Food,52.07,UPI/Wallet,Food expense,2025-05
+2025-03-29,Shopping,116.7,UPI/Wallet,Shopping expense,2025-03
+2025-05-17,Shopping,87.93,Credit Card,Shopping expense,2025-05
+2025-01-01,Food,61.7,UPI/Wallet,Food expense,2025-01
+2025-06-26,Shopping,121.69,Debit Card,Shopping expense,2025-06
+2025-05-14,Utilities,33.37,Credit Card,Utilities expense,2025-05
+2025-05-23,Utilities,13.59,Credit Card,Utilities expense,2025-05
+2025-06-25,Education,105.45,Debit Card,Education expense,2025-06
+2025-05-03,Rent,141.9,Credit Card,Rent expense,2025-05
+2025-04-26,Food,117.73,Debit Card,Food expense,2025-04
+2025-05-25,Transport,198.89,UPI/Wallet,Transport expense,2025-05
+2025-02-15,Food,94.82,Credit Card,Food expense,2025-02
+2025-06-17,Entertainment,99.28,UPI/Wallet,Entertainment expense,2025-06
+2025-02-09,Entertainment,41.5,Credit Card,Entertainment expense,2025-02
+2025-06-15,Rent,41.47,UPI/Wallet,Rent expense,2025-06
+2025-01-13,Food,178.04,UPI/Wallet,Food expense,2025-01
+2025-04-07,Education,39.96,UPI/Wallet,Education expense,2025-04
+2025-03-05,Shopping,14.69,UPI/Wallet,Shopping expense,2025-03
+2025-03-19,Entertainment,155.8,Debit Card,Entertainment expense,2025-03
+2025-05-23,Entertainment,81.81,UPI/Wallet,Entertainment expense,2025-05
+2025-01-11,Rent,139.81,UPI/Wallet,Rent expense,2025-01
+2025-05-31,Entertainment,175.97,Cash,Entertainment expense,2025-05
+2025-03-24,Education,161.7,Credit Card,Education expense,2025-03
+2025-02-02,Education,17.6,Credit Card,Education expense,2025-02
+2025-05-15,Food,165.26,Cash,Food expense,2025-05
+2025-05-02,Rent,170.74,Cash,Rent expense,2025-05
+2025-05-17,Rent,188.46,UPI/Wallet,Rent expense,2025-05
+2025-04-18,Education,20.72,Debit Card,Education expense,2025-04
+2025-06-11,Health,129.0,Credit Card,Health expense,2025-06
+2025-06-27,Food,26.55,Cash,Food expense,2025-06
+2025-04-21,Transport,151.13,Credit Card,Transport expense,2025-04
+2025-06-25,Shopping,24.18,Credit Card,Shopping expense,2025-06
+2025-01-23,Shopping,82.28,Debit Card,Shopping expense,2025-01
+2025-04-09,Utilities,21.74,UPI/Wallet,Utilities expense,2025-04
+2025-02-28,Food,141.23,Cash,Food expense,2025-02
+2025-05-18,Entertainment,188.86,Debit Card,Entertainment expense,2025-05
+2025-06-25,Utilities,122.53,Credit Card,Utilities expense,2025-06
+2025-04-05,Rent,50.92,Cash,Rent expense,2025-04
+2025-04-14,Shopping,102.48,Debit Card,Shopping expense,2025-04
+2025-04-25,Food,29.24,Debit Card,Food expense,2025-04
+2025-05-23,Utilities,182.1,Debit Card,Utilities expense,2025-05
+2025-02-25,Education,156.55,UPI/Wallet,Education expense,2025-02
+2025-02-07,Utilities,64.0,Debit Card,Utilities expense,2025-02
+2025-02-15,Entertainment,20.32,Debit Card,Entertainment expense,2025-02
+2025-05-15,Food,56.28,Cash,Food expense,2025-05
+2025-04-01,Transport,19.42,Cash,Transport expense,2025-04
+2025-03-09,Entertainment,180.05,UPI/Wallet,Entertainment expense,2025-03
+2025-02-05,Health,101.36,Cash,Health expense,2025-02
+2025-01-18,Education,134.93,UPI/Wallet,Education expense,2025-01
+2025-05-01,Rent,82.19,Cash,Rent expense,2025-05
+2025-02-06,Rent,14.37,Debit Card,Rent expense,2025-02
+2025-01-07,Health,97.35,UPI/Wallet,Health expense,2025-01
+2025-05-29,Entertainment,103.72,UPI/Wallet,Entertainment expense,2025-05
+2025-05-06,Food,139.12,Debit Card,Food expense,2025-05
+2025-04-19,Health,150.29,UPI/Wallet,Health expense,2025-04
+2025-03-04,Utilities,128.04,Debit Card,Utilities expense,2025-03
+2025-01-21,Education,28.42,Credit Card,Education expense,2025-01
+2025-01-24,Rent,74.01,Credit Card,Rent expense,2025-01
+2025-06-06,Shopping,36.72,Debit Card,Shopping expense,2025-06
+2025-05-25,Education,178.3,Credit Card,Education expense,2025-05
+2025-01-22,Shopping,68.31,Credit Card,Shopping expense,2025-01
+2025-06-23,Food,79.25,Cash,Food expense,2025-06
+2025-02-26,Food,18.44,Debit Card,Food expense,2025-02
+2025-06-15,Rent,175.08,Cash,Rent expense,2025-06
+2025-04-16,Education,63.83,Debit Card,Education expense,2025-04
+2025-05-06,Health,176.71,Credit Card,Health expense,2025-05
+2025-06-04,Transport,139.39,Cash,Transport expense,2025-06
+2025-04-07,Food,158.19,Debit Card,Food expense,2025-04
+2025-01-11,Health,45.06,Credit Card,Health expense,2025-01
+2025-01-20,Utilities,164.21,Credit Card,Utilities expense,2025-01
+2025-03-22,Entertainment,180.61,Cash,Entertainment expense,2025-03
+2025-01-26,Education,108.46,Debit Card,Education expense,2025-01
+2025-01-09,Entertainment,95.5,UPI/Wallet,Entertainment expense,2025-01
+2025-02-02,Food,118.48,UPI/Wallet,Food expense,2025-02
+2025-03-30,Rent,148.61,Cash,Rent expense,2025-03
+2025-05-06,Transport,55.1,Credit Card,Transport expense,2025-05
+2025-04-02,Education,156.27,Cash,Education expense,2025-04
+2025-01-04,Transport,54.79,Credit Card,Transport expense,2025-01
+2025-06-01,Health,125.0,Debit Card,Health expense,2025-06
+2025-05-17,Transport,49.02,Debit Card,Transport expense,2025-05
+2025-03-03,Rent,115.74,UPI/Wallet,Rent expense,2025-03
+2025-04-05,Health,128.87,Cash,Health expense,2025-04
+2025-01-19,Utilities,115.7,Cash,Utilities expense,2025-01
+2025-05-12,Rent,8.27,Cash,Rent expense,2025-05
+2025-03-11,Education,33.89,Debit Card,Education expense,2025-03
+2025-06-15,Health,39.48,Credit Card,Health expense,2025-06
+2025-02-17,Rent,32.45,Cash,Rent expense,2025-02
+2025-02-03,Food,33.66,Debit Card,Food expense,2025-02
+2025-03-21,Health,151.67,Cash,Health expense,2025-03
+2025-05-28,Rent,47.88,Cash,Rent expense,2025-05
+2025-03-08,Shopping,180.11,UPI/Wallet,Shopping expense,2025-03
+2025-03-23,Shopping,106.11,Credit Card,Shopping expense,2025-03
+2025-02-12,Transport,43.63,Cash,Transport expense,2025-02
+2025-04-03,Utilities,124.61,Credit Card,Utilities expense,2025-04
+2025-04-23,Shopping,163.62,UPI/Wallet,Shopping expense,2025-04
+2025-04-21,Education,118.29,Cash,Education expense,2025-04
+2025-03-18,Entertainment,107.57,Cash,Entertainment expense,2025-03
+2025-05-25,Food,88.4,Cash,Food expense,2025-05
+2025-01-22,Health,100.58,Cash,Health expense,2025-01
+2025-02-14,Entertainment,180.95,Debit Card,Entertainment expense,2025-02
+2025-04-27,Utilities,130.95,Credit Card,Utilities expense,2025-04
+2025-01-31,Health,176.25,UPI/Wallet,Health expense,2025-01
+2025-06-01,Shopping,48.12,Cash,Shopping expense,2025-06
+2025-06-22,Utilities,102.61,Credit Card,Utilities expense,2025-06
+2025-03-11,Shopping,75.33,Debit Card,Shopping expense,2025-03
+2025-06-02,Utilities,135.46,Debit Card,Utilities expense,2025-06
+2025-06-11,Food,106.49,Credit Card,Food expense,2025-06
+2025-06-01,Education,9.09,Debit Card,Education expense,2025-06
+2025-03-13,Education,90.42,Credit Card,Education expense,2025-03
+2025-02-03,Transport,167.3,Cash,Transport expense,2025-02
+2025-01-30,Health,83.83,Cash,Health expense,2025-01
+2025-06-21,Food,182.64,Debit Card,Food expense,2025-06
+2025-03-03,Transport,164.74,UPI/Wallet,Transport expense,2025-03
+2025-04-07,Entertainment,33.03,Debit Card,Entertainment expense,2025-04
+2025-06-13,Health,194.83,Debit Card,Health expense,2025-06
+2025-01-17,Education,117.7,Cash,Education expense,2025-01
+2025-03-18,Health,136.34,Debit Card,Health expense,2025-03
+2025-05-27,Transport,67.76,UPI/Wallet,Transport expense,2025-05
+2025-02-27,Education,73.54,Cash,Education expense,2025-02
+2025-05-23,Food,118.59,Debit Card,Food expense,2025-05
+2025-03-06,Shopping,107.42,Cash,Shopping expense,2025-03
+2025-02-20,Rent,45.74,Cash,Rent expense,2025-02
